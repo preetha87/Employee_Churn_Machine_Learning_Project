@@ -1,0 +1,2 @@
+# Employee_Churn_Machine_Learning_Project
+This repository comprises of all the Machine Learning-related Python codes for building predictive models (utilizing Ensemble methods such as Random Forest, Adaptive Boosting and Gradient Boosting) to pinpoint those significant factors that cause the employees of a company to churn. This project was undertaken as part of the coursework for the Data Mining module at Dublin Business School. 
